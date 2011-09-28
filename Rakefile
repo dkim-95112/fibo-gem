@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fibo-gem"
   gem.homepage = "http://github.com/dkim-95112/fibo-gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{fibo gem for modcloth}
+  gem.description = %Q{fibo gem for modcloth!}
   gem.email = "innerb@gmail.com"
   gem.authors = ["Dave Kim"]
   # dependencies defined in Gemfile

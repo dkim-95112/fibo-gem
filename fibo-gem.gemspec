@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "fibo-gem.gemspec",
     "lib/fibo-gem.rb",
     "test/helper.rb",
     "test/test_fibo-gem.rb"
